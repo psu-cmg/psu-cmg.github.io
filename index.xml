@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Center for Medical Genomics on Center for Medical Genomics</title>
+    <link>/</link>
+    <description>Recent content in Center for Medical Genomics on Center for Medical Genomics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2025 Center for Medical Genomics</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>All Together Now: Data Work to Advance Privacy, Science, and Health in the Age of Synthetic Data</title>
+      <link>/publication/2025-01-biocomput/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025-01-biocomput/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating electronic health records and GWAS summary statistics to predict the progression of autoimmune diseases from preclinical stages</title>
+      <link>/publication/2025-01-nat_commun/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025-01-nat_commun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funBIalign: a hierachical algorithm for functional motif discovery based on mean squared residue scores</title>
+      <link>/publication/2024-12-stat_comput/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-12-stat_comput/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complete sequencing of ape genomes</title>
+      <link>/publication/2024-10-biorxiv/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-10-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Assembly Errors in Immunoglobulin Loci: A Comprehensive Evaluation of Long-read Genome Assemblies Across Vertebrates</title>
+      <link>/publication/2024-08-biorxiv/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-08-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissecting heritability, environmental risk, and air pollution causal effects using &gt; 50 million individuals in MarketScan</title>
+      <link>/publication/2024-06-nat_commun/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-06-nat_commun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complete Sequence and Comparative Analysis of Ape Sex Chromosomes</title>
+      <link>/publication/2024-05-nature/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-05-nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes</title>
+      <link>/publication/2024-05-nat_commun/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-05-nat_commun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methylation profiles at birth linked to early childhood obesity</title>
+      <link>/publication/2024-04-j-dev_orig_health_dis/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-04-j-dev_orig_health_dis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In vivo detection of DNA secondary structures using Permanganate/S1 Footprinting with Direct Adapter Ligation and Sequencing (PDAL-Seq)</title>
+      <link>/publication/2024-01-methods_in_enzymology/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-01-methods_in_enzymology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archetti Lab</title>
+      <link>/lab/archetti/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/archetti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bankevich Lab</title>
+      <link>/lab/bankevich/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/bankevich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcript Isoform Diversity of Ampliconic Genes on the Y Chromosome of Great Apes</title>
+      <link>/publication/2023-11-genome_biol_evol/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-11-genome_biol_evol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The complete sequence of a human Y chromosome</title>
+      <link>/publication/2023-09-nature/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-09-nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Native American genetic ancestry and pigmentation allele contributions to skin color in a Caribbean population</title>
+      <link>/publication/2023-06-elife/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023-06-elife/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
