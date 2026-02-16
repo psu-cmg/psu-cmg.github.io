@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>university park on Center for Medical Genomics</title>
+    <link>/tags/university-park/</link>
+    <description>Recent content in university park on Center for Medical Genomics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2025 Center for Medical Genomics</copyright>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/university-park/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Huber Lab</title>
+      <link>/lab/huber/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/huber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safonova Lab</title>
+      <link>/lab/safonova/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/safonova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silverman Lab</title>
+      <link>/lab/silverman/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/silverman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slavkovic Lab</title>
+      <link>/lab/slavkovic/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/slavkovic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
