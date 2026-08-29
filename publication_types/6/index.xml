@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Center for Medical Genomics</title>
+    <link>/publication_types/6/</link>
+    <description>Recent content in 6 on Center for Medical Genomics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2025 Center for Medical Genomics</copyright>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In vivo detection of DNA secondary structures using Permanganate/S1 Footprinting with Direct Adapter Ligation and Sequencing (PDAL-Seq)</title>
+      <link>/publication/2024-01-methods_in_enzymology/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-01-methods_in_enzymology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Statistics to Shed Light on the Dynamics of the Human Genome: A Review</title>
+      <link>/publication/2015-01-contrib_stat/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-contrib_stat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
